@@ -1,4 +1,4 @@
-[
+{"result": [
   {
     "id": 1,
     "nombre": "Juan Pérez",
@@ -279,4 +279,4 @@
     "tipo_alerta": "media",
     "imagen": "https://ejemplo.com/imagen20.jpg"
   }
-]
+]}
