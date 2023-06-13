@@ -11,7 +11,7 @@
     "anio_cursa": 4,
     "apoyo": true,
     "tipo_alerta": "alta",
-    "imagen": "https://ejemplo.com/imagen1.jpg"
+    "imagen": "https://drive.google.com/file/d/1kg97nR1JCC1LDWb7Sm90PEqfcCddW652/view?usp=drive_link"
   },
   {
     "id": 2,
@@ -25,7 +25,7 @@
     "anio_cursa": 3,
     "apoyo": false,
     "tipo_alerta": "media",
-    "imagen": "https://ejemplo.com/imagen2.jpg"
+    "imagen": "https://drive.google.com/file/d/117DoCSQ9bv-4zxojzpYmIyO6so4bREMy/view?usp=drive_link"
   },
   {
     "id": 3,
@@ -39,7 +39,7 @@
     "anio_cursa": 2,
     "apoyo": true,
     "tipo_alerta": "baja",
-    "imagen": "https://ejemplo.com/imagen3.jpg"
+    "imagen": "https://drive.google.com/file/d/1q0omh-K0p5oLSt-SER4MXZYuwiqNN35r/view?usp=drive_link"
   },
   {
     "id": 4,
@@ -53,7 +53,7 @@
     "anio_cursa": 3,
     "apoyo": false,
     "tipo_alerta": "alta",
-    "imagen": "https://ejemplo.com/imagen4.jpg"
+    "imagen": "https://drive.google.com/file/d/1KqUqsDahGTb1ixsIlxbDDxf97DGBImBz/view?usp=drive_link"
   },
   {
     "id": 5,
@@ -67,7 +67,7 @@
     "anio_cursa": 4,
     "apoyo": true,
     "tipo_alerta": "media",
-    "imagen": "https://ejemplo.com/imagen5.jpg"
+    "imagen": "https://drive.google.com/file/d/1OJNBAJJAq0nGU8ShojWNtjLBr-3CIjvt/view?usp=drive_link"
   },
   {
     "id": 6,
@@ -81,7 +81,7 @@
     "anio_cursa": 2,
     "apoyo": false,
     "tipo_alerta": "baja",
-    "imagen": "https://ejemplo.com/imagen6.jpg"
+    "imagen": "https://drive.google.com/file/d/1T8MsAarhigQ-Fq6e_-fCzbpTCgAC7hxL/view?usp=drive_link"
   },
   {
     "id": 7,
@@ -95,7 +95,7 @@
     "anio_cursa": 3,
     "apoyo": true,
     "tipo_alerta": "alta",
-    "imagen": "https://ejemplo.com/imagen7.jpg"
+    "imagen": "https://drive.google.com/file/d/1012-cJCFNhy85ioSRqFGvCq91dOuUioo/view?usp=drive_link"
   },
   {
     "id": 8,
@@ -109,7 +109,7 @@
     "anio_cursa": 4,
     "apoyo": false,
     "tipo_alerta": "media",
-    "imagen": "https://ejemplo.com/imagen8.jpg"
+    "imagen": "https://drive.google.com/file/d/1kwRz56wclgbk_QFRVCztS5mLtUyB_wvf/view?usp=drive_link"
   },
   {
     "id": 9,
@@ -123,7 +123,7 @@
     "anio_cursa": 2,
     "apoyo": true,
     "tipo_alerta": "baja",
-    "imagen": "https://ejemplo.com/imagen9.jpg"
+    "imagen": "https://drive.google.com/file/d/1K6jigdme1dC5r2Xh6tYnJoCfZ7xYYBmJ/view?usp=drive_link"
   },
   {
     "id": 10,
@@ -137,7 +137,7 @@
     "anio_cursa": 4,
     "apoyo": false,
     "tipo_alerta": "alta",
-    "imagen": "https://ejemplo.com/imagen10.jpg"
+    "imagen": "https://drive.google.com/file/d/1mntZWKXxRoDHO6bXcKmYHqvUgqHI_l4E/view?usp=drive_link"
   },
   {
     "id": 11,
@@ -151,7 +151,7 @@
     "anio_cursa": 3,
     "apoyo": true,
     "tipo_alerta": "media",
-    "imagen": "https://ejemplo.com/imagen11.jpg"
+    "imagen": "https://drive.google.com/file/d/1MqSO9hfbeSIUPyLJuQJ15exJvdpbR6OM/view?usp=drive_link"
   },
   {
     "id": 12,
@@ -165,7 +165,7 @@
     "anio_cursa": 4,
     "apoyo": false,
     "tipo_alerta": "baja",
-    "imagen": "https://ejemplo.com/imagen12.jpg"
+    "imagen": "https://drive.google.com/file/d/1hXFmSkxX-_GiuvNoEY0o7wy3VXEwBYL5/view?usp=drive_link"
   },
   {
     "id": 13,
@@ -179,7 +179,7 @@
     "anio_cursa": 2,
     "apoyo": true,
     "tipo_alerta": "alta",
-    "imagen": "https://ejemplo.com/imagen13.jpg"
+    "imagen": "https://drive.google.com/file/d/1xTKhrTX8_zMEm-BKPZYQaDG4jRbtxW_D/view?usp=drive_link"
   },
   {
     "id": 14,
@@ -193,7 +193,7 @@
     "anio_cursa": 3,
     "apoyo": false,
     "tipo_alerta": "media",
-    "imagen": "https://ejemplo.com/imagen14.jpg"
+    "imagen": "https://drive.google.com/file/d/1-YnDoVmRxAEt6-0_nGvWz928Ou6eqF6N/view?usp=drive_link"
   },
   {
     "id": 15,
@@ -207,7 +207,7 @@
     "anio_cursa": 2,
     "apoyo": true,
     "tipo_alerta": "baja",
-    "imagen": "https://ejemplo.com/imagen15.jpg"
+    "imagen": "https://drive.google.com/file/d/1hCfgErxg6mVOBJZUXywrrG6FyZChtGoA/view?usp=drive_link"
   },
   {
     "id": 16,
@@ -221,7 +221,7 @@
     "anio_cursa": 4,
     "apoyo": false,
     "tipo_alerta": "alta",
-    "imagen": "https://ejemplo.com/imagen16.jpg"
+    "imagen": "https://drive.google.com/file/d/1NlxnE9MHxCRDHdMhMFP7jd_YHuITafXr/view?usp=drive_link"
   },
   {
     "id": 17,
@@ -235,7 +235,7 @@
     "anio_cursa": 3,
     "apoyo": true,
     "tipo_alerta": "media",
-    "imagen": "https://ejemplo.com/imagen17.jpg"
+    "imagen": "https://drive.google.com/file/d/1UfFSMa6oXizhdfD-1DAni4-FI-QSu0rU/view?usp=drive_link"
   },
   {
     "id": 18,
@@ -249,7 +249,7 @@
     "anio_cursa": 4,
     "apoyo": false,
     "tipo_alerta": "baja",
-    "imagen": "https://ejemplo.com/imagen18.jpg"
+    "imagen": "https://drive.google.com/file/d/1T8MsAarhigQ-Fq6e_-fCzbpTCgAC7hxL/view?usp=drive_link"
   },
   {
     "id": 19,
@@ -263,7 +263,7 @@
     "anio_cursa": 3,
     "apoyo": true,
     "tipo_alerta": "alta",
-    "imagen": "https://ejemplo.com/imagen19.jpg"
+    "imagen": "https://drive.google.com/file/d/13HMJhe5_A12PP8kXUMqt4361syTTrbhl/view?usp=drive_link"
   },
   {
     "id": 20,
@@ -277,6 +277,6 @@
     "anio_cursa": 4,
     "apoyo": false,
     "tipo_alerta": "media",
-    "imagen": "https://ejemplo.com/imagen20.jpg"
+    "imagen": "https://drive.google.com/file/d/1JDPg6ylwxhH_kK0BbemmcLLJCzYNDJSX/view?usp=drive_link"
   }
 ]}
