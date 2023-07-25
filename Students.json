@@ -11,6 +11,7 @@
     "anio_cursa": 4,
     "apoyo": true,
     "tipo_alerta": "alta",
+    "fecha": "2023-05-01",
     "imagen": "https://github.com/Laulles/StudentData/blob/main/juanperez.png?raw=true"
   },
   {
@@ -25,6 +26,7 @@
     "anio_cursa": 3,
     "apoyo": false,
     "tipo_alerta": "media",
+    "fecha": "2022-03-07",
     "imagen": "https://github.com/Laulles/StudentData/blob/main/marialopez.png?raw=true"
   },
   {
@@ -39,6 +41,7 @@
     "anio_cursa": 2,
     "apoyo": true,
     "tipo_alerta": "baja",
+    "fecha": "2022-05-20",
     "imagen": "https://github.com/Laulles/StudentData/blob/main/carlosgomez.png?raw=true"
   },
   {
@@ -53,6 +56,7 @@
     "anio_cursa": 3,
     "apoyo": false,
     "tipo_alerta": "alta",
+    "fecha": "2022-05-20",
     "imagen": "https://github.com/Laulles/StudentData/blob/main/anatorres.png?raw=true"
   },
   {
@@ -67,6 +71,7 @@
     "anio_cursa": 4,
     "apoyo": true,
     "tipo_alerta": "media",
+    "fecha": "2022-07-03",
     "imagen": "https://github.com/Laulles/StudentData/blob/main/pedrorodriguez.png?raw=true"
   },
   {
@@ -81,6 +86,7 @@
     "anio_cursa": 2,
     "apoyo": false,
     "tipo_alerta": "baja",
+    "fecha": "2022-09-28",
     "imagen": "https://github.com/Laulles/StudentData/blob/main/Laurafernandez.png?raw=true"
   },
   {
@@ -95,6 +101,7 @@
     "anio_cursa": 3,
     "apoyo": true,
     "tipo_alerta": "alta",
+    "fecha": "2023-04-22",
     "imagen": "https://github.com/Laulles/StudentData/blob/main/davidsmith.png?raw=true"
   },
   {
@@ -109,6 +116,7 @@
     "anio_cursa": 4,
     "apoyo": false,
     "tipo_alerta": "media",
+    "fecha": "2023-06-08",
     "imagen": "https://github.com/Laulles/StudentData/blob/main/juliagutierrez.png?raw=true"
   },
   {
@@ -123,6 +131,7 @@
     "anio_cursa": 2,
     "apoyo": true,
     "tipo_alerta": "baja",
+    "fecha": "2023-08-19",
     "imagen": "https://github.com/Laulles/StudentData/blob/main/sergioramirez.png?raw=true"
   },
   {
@@ -137,6 +146,7 @@
     "anio_cursa": 4,
     "apoyo": false,
     "tipo_alerta": "alta",
+    "fecha": "2023-10-11"
     "imagen": "https://github.com/Laulles/StudentData/blob/main/marthasalazar.png?raw=true"
   },
   {
@@ -151,6 +161,7 @@
     "anio_cursa": 3,
     "apoyo": true,
     "tipo_alerta": "media",
+    "fecha": "2023-12-07",
     "imagen": "https://github.com/Laulles/StudentData/blob/main/javiercruz.png?raw=true"
   },
   {
@@ -165,6 +176,7 @@
     "anio_cursa": 4,
     "apoyo": false,
     "tipo_alerta": "baja",
+    "fecha": "2023-01-25",
     "imagen": "https://github.com/Laulles/StudentData/blob/main/luisamedina.png?raw=true"
   },
   {
@@ -179,6 +191,7 @@
     "anio_cursa": 2,
     "apoyo": true,
     "tipo_alerta": "alta",
+    "fecha": "2023-03-05",
     "imagen": "https://github.com/Laulles/StudentData/blob/main/robertotorres.png?raw=true"
   },
   {
@@ -193,6 +206,7 @@
     "anio_cursa": 3,
     "apoyo": false,
     "tipo_alerta": "media",
+    "fecha": "2023-05-30",
     "imagen": "https://github.com/Laulles/StudentData/blob/main/camilasoto.png?raw=true"
   },
   {
@@ -207,6 +221,7 @@
     "anio_cursa": 2,
     "apoyo": true,
     "tipo_alerta": "baja",
+    "fecha": "2023-07-14",
     "imagen": "https://github.com/Laulles/StudentData/blob/main/diegomartinez.png?raw=true"
   },
   {
@@ -221,6 +236,7 @@
     "anio_cursa": 4,
     "apoyo": false,
     "tipo_alerta": "alta",
+    "fecha": "2023-09-06",
     "imagen": "https://github.com/Laulles/StudentData/blob/main/paolamorales.png?raw=true"
   },
   {
@@ -235,6 +251,7 @@
     "anio_cursa": 3,
     "apoyo": true,
     "tipo_alerta": "media",
+    "fecha": "2023-11-23",
     "imagen": "https://github.com/Laulles/StudentData/blob/main/martingomez.png?raw=true"
   },
   {
@@ -249,6 +266,7 @@
     "anio_cursa": 4,
     "apoyo": false,
     "tipo_alerta": "baja",
+    "fecha": "2023-12-15",
     "imagen": "https://github.com/Laulles/StudentData/blob/main/lauragonzalez.png?raw=true"
   },
   {
@@ -263,6 +281,7 @@
     "anio_cursa": 3,
     "apoyo": true,
     "tipo_alerta": "alta",
+    "fecha": "2022-11-12",
     "imagen": "https://github.com/Laulles/StudentData/blob/main/andrescastro.png?raw=true"
   },
   {
@@ -277,6 +296,7 @@
     "anio_cursa": 4,
     "apoyo": false,
     "tipo_alerta": "media",
+    "fecha": "2022-11-12",
     "imagen": "https://github.com/Laulles/StudentData/blob/main/valeriasanchez.png?raw=true"
   }
 ]}
