@@ -2,10 +2,12 @@
   "users": [
     {
       "username": "Admin",
+      "email": "arenalles1224@gmail.com",
       "password": "clave123"
     },
     {
       "username": "laury.arenales",
+      "email": "laury.arenales@utp.ac.pa",
       "password": "12345"
     }
   ]
